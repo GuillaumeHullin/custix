@@ -4,7 +4,7 @@ Custom Zabbix Scripts
 # Deploy
 ## Zabbix
 
-    #~ git clone https://github.com/sergiotocalini/custix.git
+    #~ git clone https://github.com/GuillaumeHullin/custix.git
     #~ ./custix/deploy_zabbix.sh
     #~
 
